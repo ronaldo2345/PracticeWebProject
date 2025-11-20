@@ -1,0 +1,2 @@
+- created locally using xampp
+- myphpadmin used for sql database
